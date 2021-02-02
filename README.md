@@ -12,7 +12,7 @@ python3 ApacheFlink_poc.py -u http://127.0.0.1:1111 单个url测试
 
 python3 ApacheFlink_poc.py -f url.txt 批量检测
 
-##修复建议
+## 修复建议
 
 建议用户关注Apache Flink官网，及时获取该漏洞最新补丁。临时解决建议 设置IP白名单只允许信任的IP访问控制台并添加访问认证。
 
